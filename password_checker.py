@@ -40,4 +40,5 @@ if score <= 2:
 elif score <= 4:
   print("password strength: medium")
 else:
-  print("password strength: strong"
+  print("password strength: strong")
+  
